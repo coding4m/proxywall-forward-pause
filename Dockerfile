@@ -1,4 +1,2 @@
-FROM coding4m/proxywall
+FROM coding4m/pause
 MAINTAINER coding4m@gmail.com
-
-ENTRYPOINT ["/usr/local/bin/proxywall-forward"]
